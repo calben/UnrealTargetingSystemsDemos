@@ -1,0 +1,3 @@
+[submodule "Plugins/UnrealTargetingSystemsPlugin"]
+	path = Plugins/UnrealTargetingSystemsPlugin
+	url = https://github.com/calben/UnrealTargetingSystemsPlugin
